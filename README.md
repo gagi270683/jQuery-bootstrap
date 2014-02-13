@@ -7,7 +7,7 @@ jQuery-bootstrap
 	<ol>Responsive</ol>
 	<ol>lightweight</ol>
 	<ol>easy to use</ol>
-	<ol>scroll anything in up/down direction</ol>
+	<ol>scroll any news format in up/down direction</ol>
 	<ol>...</ol>
 </ul>
 
