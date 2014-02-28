@@ -1,4 +1,4 @@
-Responsive jQuery Bootstrap News Box
+Responsive jQuery Bootstrap News Box plugin
 ================
 
 <p>A jQuery and Bootstrap 3 based plugin for creating a clean responsive news ticker/slider that allows you to vertically scroll html contents with autoplay and up/down navigation support..</p>
